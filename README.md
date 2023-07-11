@@ -2,9 +2,11 @@
 -  I’m interested in Tech, anything-IT, and currently learning networking and cybersecurity.
 -  Life is a journey of continuous learning and growth, and the same could be said about IT. I'm a fan of both.
 
--  ========= stay tuned =========
+-  人間にとって学問は、木の枝に繁る葉と同じだ。　　・武田信玄・
 -
+
 - 📫 How to reach me ...
+  
 
 <!---
 Wolanet/Wolanet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
