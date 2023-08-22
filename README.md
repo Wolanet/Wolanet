@@ -3,9 +3,9 @@
 -  Life is a journey of continuous learning and growth, and the same could be said about IT. I'm a fan of both.
 
 -  人間にとって学問は、木の枝に繁る葉と同じだ。　　・武田信玄・
--
 
-- 📫 How to reach me ...
+
+<!--- possibly add email account here --->
   
 
 <!---
