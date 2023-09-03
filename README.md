@@ -1,27 +1,32 @@
-<h1> Heyo, I'm Lorenzo! <br/><a href="https://github.com/joshmadakor1">Tech and Language Enthusiast, Asian/Japanese culture expert</a> </h1>
+<h1> Hey, I'm Lorenzo! <br/></h1>
 
-<h3>I’m passionate about Tech, anything-IT, and I'm currently learning {networking and the Windows Enviroment}, along with programming.<br><br>
+**I’m passionate about Tech, anything-IT, language learning and Asian/Japanese literature and culture.**  
+**I'm currently learning {networking and Administration in a Windows enviroment}, along with some programming.** <br>
 
-人間にとって学問は、木の枝に繁る葉と同じだ。　　[武田信玄]</h3><br>
+**人間にとって学問は、木の枝に繁る葉と同じだ。　　{武田信玄}**
 
-<h2>👨‍💻 Projects and Development</h2>
+<h2>👨‍💻 IT Projects and Development</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>PowerShell</b>
-  - [Various scripts for AD enviroment](https://github.com/joshmadakor1/Sentinel-Lab)
+- [Active Directory Home Lab](https://github.com/Wolanet/Anki_deck-language-learning)
+- [PowerShell scripts for AD enviroment](https://github.com/Wolanet/ActiveDirectory-scripts)
+- [Most common troubleshooting issues {Windows}](https://github.com/Wolanet/Anki_deck-language-learning)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📜 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- **CCNA** (in progress)
 
-<h2> 🤳 Contact me</h2>
+<h2>🔰 Language learning</h2>
+
+- [Anki deck template](https://github.com/Wolanet/Anki_deck-language-learning)
+- [How to learn any language | Anki + Immersion](https://github.com/Wolanet/Anki_deck-language-learning)
+
+<h2>😎🤳 Contact me</h2>
 
 [<img align="left" alt="LoBe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LoBe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: https://www.instagram.com/magnificent.flow/
+[linkedin]: https://www.linkedin.com/in/lorenzobertini-netw/
 
 <!-- Wolanet/Wolanet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
