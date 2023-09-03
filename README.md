@@ -3,7 +3,7 @@
 **I’m passionate about Tech, anything-IT, language learning and Asian/Japanese literature and culture.**  
 **I'm currently learning {networking and Administration in a Windows enviroment}, along with some programming.** <br>
 
-**人間にとって学問は、木の枝に繁る葉と同じだ。　　{武田信玄}**
+<h3>人間にとって学問は、木の枝に繁る葉と同じだ。　　{武田信玄}</h3>
 
 <h2>👨‍💻 IT Projects and Development</h2>
 
