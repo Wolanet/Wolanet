@@ -1,7 +1,7 @@
 <h1> Hey, I'm Lorenzo! <br/></h1>
 
-<h3>IT Specialist &nbsp; || &nbsp; Asian/Japanese language and culture expert</h3>
-人間にとって学問は、木の枝に繁る葉と同じだ。　　{武田信玄}
+<h3>&nbsp; IT Specialist &nbsp; . &nbsp; Asian/Japanese language and culture expert</h3>
+&nbsp; 人間にとって学問は、木の枝に繁る葉と同じだ。　　{武田信玄}
 
 <h2>👨‍💻 IT Projects and Development</h2>
 
