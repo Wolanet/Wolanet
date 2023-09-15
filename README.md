@@ -5,6 +5,8 @@
 
 <h2>👨‍💻 IT Projects and Development</h2>
 
+- [Nessus lab here](https://github.com/Wolanet/Anki_deck-language-learning)
+- [SIEM Microsoft Sentinel in AZURE here](https://github.com/Wolanet/Anki_deck-language-learning)
 - [Active Directory Home Lab](https://github.com/Wolanet/Anki_deck-language-learning)
 - [PowerShell scripts for AD enviroment](https://github.com/Wolanet/ActiveDirectory-scripts)
 - [Most common troubleshooting issues {Windows}](https://github.com/Wolanet/Anki_deck-language-learning)
