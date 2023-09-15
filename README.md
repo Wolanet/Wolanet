@@ -5,20 +5,27 @@
 
 <h2>👨‍💻 IT Projects and Development</h2>
 
-- [Nessus lab here](https://github.com/Wolanet/Anki_deck-language-learning)
-- [SIEM Microsoft Sentinel in AZURE here](https://github.com/Wolanet/Anki_deck-language-learning)
+- [Nessus lab here](https://github.com/Wolanet/---)
+- [SIEM Microsoft Sentinel in AZURE here](https://github.com/Wolanet/---) WorkInProgrss
+   ________
 - [Active Directory Home Lab](https://github.com/Wolanet/Anki_deck-language-learning)
 - [PowerShell scripts for AD enviroment](https://github.com/Wolanet/ActiveDirectory-scripts)
 - [Most common troubleshooting issues {Windows}](https://github.com/Wolanet/Anki_deck-language-learning)
+  ________
+- **Software development**: [Python portfolio](https://github.com/Wolanet/---)
+
 
 <h2>📜 Certifications</h2>
 
 - **CCNA** (in progress)
+- **Security+** (in progress)
+
 
 <h2>🔰 Language learning</h2>
 
 - [Anki deck template](https://github.com/Wolanet/Anki_deck-language-learning)
 - [How to learn any language | Anki + Immersion](https://github.com/Wolanet/Anki_deck-language-learning)
+
 
 <h2>😎🤳 (連絡先) Contact me</h2>
 
