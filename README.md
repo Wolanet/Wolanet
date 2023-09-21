@@ -1,4 +1,4 @@
-<h1> Hey, I'm Lorenzo! <br/></h1>
+<h1> Hey, I'm Lorenzo! <br/> </h1>
 
 <h3>&nbsp; IT Specialist &nbsp; . &nbsp; Asian/Japanese language and culture expert</h3>
 &nbsp; 人間にとって学問は、木の枝に繁る葉と同じだ。　　{武田信玄}
@@ -15,19 +15,19 @@
 - **Software development**: [Python portfolio](https://github.com/Wolanet/---)
 
 
-<h2>📜 Certifications</h2>
+<h2>📜 Certifications </h2>
 
 - **CCNA** (in progress)
 - **Security+** (in progress)
 
 
-<h2>🔰 Language learning</h2>
+<h2>🔰 Language learning </h2>
 
 - [Anki deck template](https://github.com/Wolanet/Anki_deck-language-learning)
 - [How to learn any language | Anki + Immersion](https://github.com/Wolanet/Anki_deck-language-learning)
 
 
-<h2>😎🤳 (連絡先) Contact me</h2>
+<h2>😎🤳 (連絡先) Contact me </h2>
 
 [<img align="left" alt="LoBe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LoBe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
