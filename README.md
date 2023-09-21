@@ -1,9 +1,9 @@
-<h1>Hey, I'm Lorenzo!</h1>
+<h1> Hey, I'm Lorenzo! </h1>
 
-<h3>&nbsp; IT Specialist &nbsp; . &nbsp; Asian/Japanese language and culture expert</h3>
+<h3> &nbsp; IT Specialist &nbsp; . &nbsp; Asian/Japanese language and culture expert </h3>
 &nbsp; 人間にとって学問は、木の枝に繁る葉と同じだ。　　{武田信玄}
 
-<h2>👨‍💻 IT Projects and Development</h2>
+<h2>👨‍💻 IT Projects and Development </h2>
 
 - [Nessus lab here](https://github.com/Wolanet/---)
 - [SIEM Microsoft Sentinel in AZURE here](https://github.com/Wolanet/---) WorkInProgrss
