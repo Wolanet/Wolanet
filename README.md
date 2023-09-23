@@ -42,5 +42,8 @@
 [instagram]: https://www.instagram.com/magnificent.flow/
 [linkedin]: https://www.linkedin.com/in/lorenzobertini-netw/
 
+<br /> <br />
+business inquiries: **lbwork@tektsunami.com**
+
 <!-- Wolanet/Wolanet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
