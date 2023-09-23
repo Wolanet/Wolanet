@@ -7,7 +7,7 @@
 <h2>👨‍💻 IT Projects and Development </h2>
 
 - [Nessus lab](https://github.com/Wolanet/---)
-- [SIEM Microsoft Sentinel in AZURE here](https://github.com/Wolanet/---) WorkInProgrss
+- [SIEM Microsoft Sentinel AZURE](https://github.com/Wolanet/---) (WorkInProgress)
    ________
 - [Active Directory Home Lab](https://github.com/Wolanet/Anki_deck-language-learning)
 - [PowerShell scripts for AD enviroment](https://github.com/Wolanet/ActiveDirectory-scripts)
