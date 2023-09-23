@@ -1,4 +1,4 @@
-![MasterHead](https://)
+![MasterHead](bannerX3.jpg)
 
 <h1 align="center"> Hey, I'm Lorenzo! </h1>
 <h3 align="center"> &nbsp; IT Specialist &nbsp; || &nbsp; Asian/Japanese language and culture expert <br /> <br />
