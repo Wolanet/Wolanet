@@ -1,6 +1,6 @@
 ![MasterHead](bannerXI.png)
 
-<h1 align="center"> Hey, I'm Lorenzo! </h1>
+<h1 align="center"> Hey, I'm Lorenzo! 🙋🏻‍♂️ </h1>
 <h3 align="center"> &nbsp; IT Specialist &nbsp; || &nbsp; Asian/Japanese language and culture expert </h3> 
 <h4 align="center"> &nbsp; 人間にとって学問は、木の枝に繁る葉と同じだ。　　{武田信玄} </h4>
 
