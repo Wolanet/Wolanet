@@ -43,7 +43,7 @@
 [linkedin]: https://www.linkedin.com/in/lorenzobertini-netw/
 
 <br /> <br />
-business inquiries: **lbwork@tektsunami.com**
+business inquiries: **lbwork [at] tektsunami.com**
 
 <!-- Wolanet/Wolanet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
