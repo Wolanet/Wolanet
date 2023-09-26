@@ -12,7 +12,6 @@
 - [Active Directory Home Lab](https://github.com/Wolanet/Anki_deck-language-learning)
 - [PowerShell scripts for AD enviroment](https://github.com/Wolanet/ActiveDirectory-scripts)
 - [Most common troubleshooting issues {Windows}](https://github.com/Wolanet/Anki_deck-language-learning)
-  ________
 - **Software development**: [Python portfolio](https://github.com/Wolanet/---)
 
 
