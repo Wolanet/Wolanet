@@ -18,7 +18,7 @@
 <h2>📜 Certifications </h2>
 
 - **CCNA** (in progress)
-- **AZ-104** (in progress)
+- **AI-900 + AZ-104** (in progress)
 
 
 <h2>🔰 Language learning </h2>
