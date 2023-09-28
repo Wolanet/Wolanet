@@ -4,7 +4,7 @@
 <h3 align="center"> &nbsp; IT Specialist &nbsp; || &nbsp; Asian/Japanese language and culture expert </h3> 
 <p align="center"> &nbsp; <b> 人間にとって学問は、木の枝に繁る葉と同じだ。</b>　　{武田信玄} </p>
 
-<h2>👨‍💻 IT Projects and Development </h2>
+<h2>👨‍💻(~)IT Projects and Development </h2>
 
 - [Nessus lab](https://github.com/Wolanet/---)
 - [SIEM Microsoft Sentinel AZURE](https://github.com/Wolanet/---) (//)
