@@ -41,9 +41,8 @@
 [instagram]: https://www.instagram.com/magnificent.flow/
 [linkedin]: https://www.linkedin.com/in/lorenzobertini-netw/
 
-<br /> <br />
-business inquiries: **lbwork [at] tektsunami.com**
+<br /> <br /> 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Wolanet&label=Profile%20views&color=0e75b6&style=flat" alt="Wolanet" /> </p>
+business inquiries: **lbwork [at] tektsunami.com**  <p align="right"> <img src="https://komarev.com/ghpvc/?username=Wolanet&label=Profile%20views&color=0e75b6&style=flat" alt="Wolanet" /> </p>
 <!-- Wolanet/Wolanet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
