@@ -6,13 +6,13 @@
 
 <h2>👨‍💻(~)IT Projects and Development </h2>
 
-- [Nessus lab](https://github.com/Wolanet/---)
-- [SIEM Microsoft Sentinel AZURE](https://github.com/Wolanet/---) (//)
+- [Vulnerability Management Homelab using Nessus Essentials](https://tektsunami.com/alabnessus.html)
+- [SIEM Microsoft Sentinel Azure](https://github.com/Wolanet/---) (//)
    ________
-- [Active Directory Home Lab](https://github.com/Wolanet/Anki_deck-language-learning)
-- [PowerShell scripts for AD enviroment](https://github.com/Wolanet/ActiveDirectory-scripts)
-- [Most common troubleshooting issues {Windows}](https://github.com/Wolanet/Anki_deck-language-learning)
-- **Software development**: [Python portfolio](https://github.com/Wolanet/---)
+- [Active Directory Homelab](https://tektsunami.com/adhomelab.html)
+- [PowerShell scripts for AD enviroment](https://github.com/Wolanet/ActiveDirectory_Pshell_scripts)
+- [Most common troubleshooting issues {Windows}](https://tektsunami.com/commontroubles.html)
+- **Software development**: [Python portfolio](https://github.com/Wolanet/python_portfolioV)
 
 
 <h2>📜 Certifications </h2>
@@ -23,8 +23,8 @@
 
 <h2>🔰 Language learning </h2>
 
-- [Anki deck template](https://github.com/Wolanet/Anki_deck-language-learning)
-- [How to learn any language | Anki + Immersion](https://github.com/Wolanet/Anki_deck-language-learning)
+- [Anki deck template](https://github.com/Wolanet/Anki_deck_LanguageLearning)
+- [How to learn any language | Anki + Immersion](https://tektsunami.com/ankistudy.html)
 
 
 <h2>💎 Programming Languages and Tools </h2>
