@@ -7,7 +7,7 @@
 <h2>👨‍💻(~)IT Projects and Development </h2>
 
 - [Vulnerability Management Homelab using Nessus Essentials](https://tektsunami.com/alabnessus.html)
-- [SIEM Microsoft Sentinel Azure lab](https://github.com/Wolanet/---) (//)
+- [Microsoft Sentinel (SIEM) Azure Lab with Cloud-based Honeypot](https://tektsunami.com/alabsentinel.html)
    ________
 - [Active Directory Homelab](https://tektsunami.com/adhomelab.html)
 - [PowerShell scripts for AD enviroment](https://github.com/Wolanet/ActiveDirectory_Pshell_scripts)
