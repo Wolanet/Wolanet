@@ -6,19 +6,19 @@
 
 <h2>👨‍💻(~)IT Projects and Development </h2>
 
-- [Vulnerability Management Homelab using Nessus Essentials](https://tektsunami.com/alabnessus.html)
-- [Microsoft Sentinel (SIEM) Azure Lab with Cloud-based Honeypot](https://tektsunami.com/alabsentinel.html) 
+- [Microsoft Sentinel (SIEM) Azure Lab with Cloud-based Honeypot](https://tektsunami.com/alabsentinel.html) &nbsp; (+[repository](https://github.com/Wolanet/MicrosoftSentinel-Azure-lab))
+- [Vulnerability Management Homelab using Nessus Essentials](https://tektsunami.com/alabnessus.html) &nbsp; (+[repository](https://github.com/Wolanet/VulnerabilityManagement_Nessus))
    ________
 - [Active Directory Homelab](https://tektsunami.com/adhomelab.html)
 - [PowerShell scripts for AD enviroment](https://github.com/Wolanet/ActiveDirectory_Pshell_scripts)
 - [Most common troubleshooting issues {Windows}](https://tektsunami.com/commontroubles.html)
-- **Software development**: [Python portfolio](https://github.com/Wolanet/python_portfolioV)
+- **Software development**: [Python Projects portfolio](https://github.com/Wolanet/python_portfolioV)
 
 
 <h2>📜 Certifications </h2>
 
 - **CCNA** (in progress)
-- **AI-900 + AZ-104** (in progress)
+- Microsoft Azure: **AI-900 + AZ-900** (in progress)
 
 
 <h2>🔰 Language learning </h2>
