@@ -18,7 +18,8 @@
 <h2>📜 Certifications </h2>
 
 - **CCNA** (in progress)
-- Microsoft Azure: **AI-900 + AZ-900** (in progress)
+- Studying materials for **Security+** and **Google Cybersecurity Pro.**
+
 
 
 <h2>🔰 Language learning </h2>
