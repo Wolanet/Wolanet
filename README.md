@@ -17,8 +17,9 @@
 
 <h2>📜 Certifications </h2>
 
+- **Cisco Networking Academy**: Cyber Threat Management, Intro to Cybersecurity, Operating Systems and Computer Hardware Basics
 - **CCNA** (in progress)
-- Studying materials for **Security+** and **Google Cybersecurity Pro.**
+- **Google Cybersecurity Professional** (in progress)
 
 
 
