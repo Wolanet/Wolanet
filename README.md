@@ -17,7 +17,7 @@
 
 <h2>📜 Certifications </h2>
 
-- **Cisco Networking Academy**: [Cyber Threat Management](https://www.credly.com/badges/a761e02a-fde0-4fe0-bac6-d7996e258f61/linked_in_profile) , [more shown on Linkedin]
+- **Cisco Networking Academy**: [Cyber Threat Management](https://www.credly.com/badges/a761e02a-fde0-4fe0-bac6-d7996e258f61/linked_in_profile), [more shown on Linkedin]
 - **Google Cybersecurity Professional** (in progress)
 - **CCNA** (in progress)
 
