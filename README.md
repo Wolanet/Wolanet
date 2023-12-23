@@ -8,12 +8,10 @@
 
 - [Microsoft Sentinel (SIEM) Azure Lab with Cloud-based Honeypot](https://tektsunami.com/alabsentinel.html) &nbsp; (+[repository](https://github.com/Wolanet/MicrosoftSentinel-Azure-lab))
 - [Vulnerability Management Homelab using Nessus Essentials](https://tektsunami.com/alabnessus.html) &nbsp; (+[repository](https://github.com/Wolanet/VulnerabilityManagement_Nessus))
+- **Cybersec-Software development**: [Python Projects portfolio](https://github.com/Wolanet/python_portfolioV)
    ________
-- [Active Directory Homelab](https://tektsunami.com/adhomelab.html)
-- [PowerShell scripts for AD enviroment](https://github.com/Wolanet/ActiveDirectory_Pshell_scripts)
-- [Most common troubleshooting issues {Windows}](https://tektsunami.com/commontroubles.html)
-- **Software development**: [Python Projects portfolio](https://github.com/Wolanet/python_portfolioV)
-
+- [Active Directory Homelab](https://tektsunami.com/adhomelab.html) &nbsp; || &nbsp; [PowerShell scripts for AD enviroment](https://github.com/Wolanet/ActiveDirectory_Pshell_scripts)
+- [Troubleshooting issues {Windows}](https://tektsunami.com/commontroubles.html) 
 
 <h2>📜 Certifications & Certificates </h2>
 
