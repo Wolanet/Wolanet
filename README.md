@@ -6,6 +6,7 @@
 
 <h2>👨‍💻(~)IT Projects and Development </h2>
 
+- **Blue Team**: [Wireshark, tcpdump, Suricata and hardening](https://tektsunami.com/ablueteamwire.html) &nbsp; || &nbsp; **Red Team**: [Hacking Wonderland](https://tektsunami.com/athmwonderland.html) (TryHackMe.com CTF)
 - [Microsoft Sentinel (SIEM) Azure Lab with Cloud-based Honeypot](https://tektsunami.com/alabsentinel.html) &nbsp; (+[repository](https://github.com/Wolanet/MicrosoftSentinel-Azure-lab))
 - [Vulnerability Management Homelab using Nessus Essentials](https://tektsunami.com/alabnessus.html) &nbsp; (+[repository](https://github.com/Wolanet/VulnerabilityManagement_Nessus))
 - **Cybersec-Software development**: [Python Projects portfolio](https://github.com/Wolanet/python_portfolioV)
