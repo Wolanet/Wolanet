@@ -16,7 +16,7 @@
 
 <h2>📜 Certifications & Certificates </h2>
 
-- **CCNA** (in progress) || &nbsp; **Security+** (in progress)
+- **CCNA** (in progress) &nbsp; || &nbsp; **Security+** (in progress)
 - **Google Cybersecurity Professional Certificate**
 - **Cisco Networking Academy** [various]
 
