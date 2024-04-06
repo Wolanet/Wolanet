@@ -1,7 +1,7 @@
 ![MasterHead](bannerAB.png)
 
 <h1 align="center"> Hey, I'm Lorenzo! 🙋🏻‍♂️ </h1>
-<h3 align="center"> &nbsp; <b> [ IT-Cybersecurity Specialist ] </b> &nbsp; || &nbsp; Asian/Japan Studies expert </h3>
+<h3 align="center"> &nbsp; <b> IT-Cybersecurity Specialist </b> &nbsp; || &nbsp; Asian/Japan Studies expert </h3>
 <p align="center"> &nbsp; <b> 人間にとって学問は、木の枝に繁る葉と同じだ。</b>　　{武田信玄} </p>
 
 <h2>👨‍💻(~)IT Projects and Development </h2>
@@ -27,11 +27,9 @@
 - [How to learn any language | Anki + Immersion](https://tektsunami.com/ankistudy.html)
 
 
-<h2>{ } Programming and Tools </h2>
+<h2>{ } Programming Languages </h2>
 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/vital987/vital987/master/assets/linux.svg" alt="linux" width="40" height="40"/> <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wshark" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> [ ... ] 
- <br />
- <br />
+ <h4> > Python | Powershell | Bash | SQL | HTML - CSS </h4>
 
 <h2>😎🤳 (連絡先) Contact me </h2>
 
