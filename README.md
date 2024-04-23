@@ -1,7 +1,5 @@
-![MasterHead](bannerAB.png)
-
 <h1 align="center"> Hey, I'm Lorenzo! 🙋🏻‍♂️ </h1>
-<h3 align="center"> &nbsp; <b> IT-Cybersecurity Specialist </b> &nbsp; || &nbsp; Asian/Japan Studies expert </h3>
+<h3 align="center"> &nbsp; <b> IT•Cybersecurity Specialist </b> &nbsp; || &nbsp; Asian•Japan Studies expert </h3>
 <p align="center"> &nbsp; <b> 人間にとって学問は、木の枝に繁る葉と同じだ。</b>　　{武田信玄} </p>
 
 <h2>👨‍💻(~)IT Projects and Development </h2>
