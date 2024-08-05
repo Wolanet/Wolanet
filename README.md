@@ -2,7 +2,7 @@
 <h3 align="center"> &nbsp; <b> IT•Cybersecurity Specialist </b> &nbsp; || &nbsp; Asian•Japan Studies expert </h3>
 <p align="center"> &nbsp; <b> 人間にとって学問は、木の枝に繁る葉と同じだ。</b>　　{武田信玄} </p>
 
-<h2>👨‍💻(~)IT Projects and Development </h2>
+<h2>👨‍💻(~) Csec-IT Projects</h2>
 
 - **Blue Team**: [Wireshark, tcpdump, Suricata and hardening](https://tektsunami.com/ablueteamwire.html) &nbsp; || &nbsp; **Red Team**: [Hacking Wonderland](https://tektsunami.com/athmwonderland.html) (TryHackMe.com CTF)
 - [Microsoft Sentinel (SIEM) Azure Lab with Cloud-based Honeypot](https://tektsunami.com/alabsentinel.html) &nbsp; (+[repository](https://github.com/Wolanet/MicrosoftSentinel-Azure-lab))
@@ -14,10 +14,9 @@
 
 <h2>📜 Certifications & Certificates </h2>
 
-- **CCNA** (in progress) &nbsp; || &nbsp; **Security+** (in progress)
+- **Security+, Cysa+, Splunk certs** (in progress)
 - **Google Cybersecurity Professional Certificate**
 - **Cisco Networking Academy** [various]
-
 
 <h2>🔰 Language learning </h2>
 
