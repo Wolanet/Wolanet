@@ -28,7 +28,7 @@
 
  <h4> > Python | Powershell | Bash | SQL | HTML - CSS </h4>
 
-<h2>😎🤳 (連絡先) Contact me </h2>
+<h2> (連絡先) Contact me </h2>
 
 [<img align="left" alt="LoBe | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LoBe | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -37,7 +37,6 @@
 [linkedin]: https://www.linkedin.com/in/lorenzobertini-netw/
 
 <br /> <br /> 
-
-**lbwork [at] tektsunami.com**  <p align="right"> <img src="https://komarev.com/ghpvc/?username=Wolanet&label=Profile%20views&color=0e75b6&style=flat" alt="Wolanet" /> </p>
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=Wolanet&label=Profile%20views&color=0e75b6&style=flat" alt="Wolanet" /> </p>
 <!-- Wolanet/Wolanet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
