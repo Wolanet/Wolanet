@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Lorenzo! 🙋🏻‍♂️ </h1>
+<h1 align="center"> 🔻Hey, I'm Lorenzo!🔺 </h1>
 <h3 align="center"> &nbsp; <b> IT•Cybersecurity Specialist </b> &nbsp; || &nbsp; Asian•Japan Studies expert </h3>
 <p align="center"> &nbsp; <b> 人間にとって学問は、木の枝に繁る葉と同じだ。</b>　　{武田信玄} </p>
 
@@ -24,16 +24,16 @@
 - [How to learn any language | Anki + Immersion](https://tektsunami.com/ankistudy.html)
 
 
-<h2>{ } Programming Languages </h2>
+<h2>{✳️} Programming Languages </h2>
 
  <h4> > Python | Powershell | Bash | SQL | HTML - CSS </h4>
 
-<h2> (連絡先) Contact me </h2>
+<br />
+
+<h3> (連絡先) Contact me </h3>
 
 [<img align="left" alt="LoBe | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LoBe | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/magnificent.flow/
 [linkedin]: https://www.linkedin.com/in/lorenzobertini-netw/
 
 <br /> <br /> 
