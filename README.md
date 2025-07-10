@@ -1,20 +1,19 @@
 <h1 align="center"> Hey, I'm Lorenzo! </h1>
-<h3 align="center"> &nbsp; <b> IT•Cybersecurity Specialist </b> &nbsp; || &nbsp; Asian•Japan Studies expert </h3>
+<h3 align="center"> &nbsp; <b> Cybersecurity Professional </b> &nbsp; || &nbsp; Asian•Japan Studies Ex-researcher </h3>
 <p align="center"> &nbsp; <b> 人間にとって学問は、木の枝に繁る葉と同じだ。</b>　　{武田信玄} </p>
 
-<h2>👨‍💻(~) Csec-IT Projects</h2>
+<h2>👨‍💻(~) Projects-Portfolio </h2>
 
-- **Blue Team**: [Wireshark, tcpdump, Suricata and hardening](https://tektsunami.com/ablueteamwire.html) &nbsp; || &nbsp; **Red Team**: [Hacking Wonderland](https://tektsunami.com/athmwonderland.html) (TryHackMe.com CTF)
-- [Microsoft Sentinel (SIEM) Azure Lab with Cloud-based Honeypot](https://tektsunami.com/alabsentinel.html) &nbsp; (+[repository](https://github.com/Wolanet/MicrosoftSentinel-Azure-lab))
+- **Blue Team**: [Wireshark, tcpdump, Suricata and hardening](https://tektsunami.com/ablueteamwire.html) &nbsp; || &nbsp; **Red Team**: [Hacking Wonderland](https://tektsunami.com/athmwonderland.html) (TryHackMe CTF)
+- [Microsoft Sentinel Azure Lab with Cloud-based Honeypot](https://tektsunami.com/alabsentinel.html) &nbsp; (+[repository](https://github.com/Wolanet/MicrosoftSentinel-Azure-lab))
 - [Vulnerability Management Homelab using Nessus Essentials](https://tektsunami.com/alabnessus.html) &nbsp; (+[repository](https://github.com/Wolanet/VulnerabilityManagement_Nessus))
-- **Cybersec-Software development**: [Python Projects portfolio](https://github.com/Wolanet/python_portfolioV)
-   ________
 - [Active Directory Homelab](https://tektsunami.com/adhomelab.html) &nbsp; || &nbsp; [PowerShell scripts for AD enviroment](https://github.com/Wolanet/ActiveDirectory_Pshell_scripts)
-- [Troubleshooting issues {Windows}](https://tektsunami.com/commontroubles.html) 
+- **Scripting-coding**: [Python Projects portfolio](https://github.com/Wolanet/python_portfolioV)
 
-<h2>📜 Certifications & Certificates </h2>
+<h2>📜 Certs </h2>
 
-- **BTL1, Cysa+, Splunk Power User** (in progress)
+- Planned/InProgress: **CCD, CySa+, CRTP**
+- **BTL1, Splunk Certified User, Splunk Power User**
 - **Google Cybersecurity Professional Certificate**
 
 <h2>🔰 Language learning </h2>
@@ -23,9 +22,9 @@
 - [How to learn any language | Anki + Immersion](https://tektsunami.com/ankistudy.html)
 
 
-<h2>{✳️} Programming Languages </h2>
+<h2>🔨 Tools Expertise </h2>
 
- <h4> > Python | Powershell | Bash | SQL | HTML - CSS </h4>
+ <h4> > CrowdStrike platform, Splunk, PA Networks Cortex, Cofense, Proofpoint, Forensics & PCAP analysis tools </h4>
 
 <h3> (連絡先) Contact me: </h3>
 
