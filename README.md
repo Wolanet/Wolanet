@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Lorenzo! </h1>
+<h1 align="center"> Hey, I'm Lorenzo </h1>
 <h3 align="center"> &nbsp; <b> Cybersecurity Professional </b> &nbsp; || &nbsp; Asian•Japan Studies Ex-researcher </h3>
 <p align="center"> &nbsp; <b> 人間にとって学問は、木の枝に繁る葉と同じだ。</b>　　{武田信玄} </p>
 
@@ -12,8 +12,8 @@
 
 <h2>📜 Certs </h2>
 
-- Planned/InProgress: **CCD, CySa+, CRTP**
-- **BTL1, Splunk Certified User, Splunk Power User**
+- Planned/InProgress: **CySa+, CRTP**
+- **CCDL1, BTL1, Splunk Certified User, Splunk Power User**
 - **Google Cybersecurity Professional Certificate**
 
 <h2>🔰 Language learning </h2>
@@ -24,7 +24,7 @@
 
 <h2>🔨 Tools Expertise </h2>
 
- <h4> > CrowdStrike platform, Splunk, PA Networks Cortex, Cofense, Proofpoint, Forensics & PCAP analysis tools </h4>
+ <h4> > Rapid7 stack, Microsoft Stack, CrowdStrike platform, Splunk, Cortex SIEM and XDR, Cofense-Proofpoint, Forensics & PCAP analysis tools etc. </h4>
 
 <h3> (連絡先) Contact me: </h3>
 
