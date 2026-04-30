@@ -22,13 +22,10 @@
 - [How to learn any language | Anki + Immersion](https://tektsunami.com/ankistudy.html)
 
 
-<h2>🔨 Tools Expertise </h2>
+<h3> (連絡先) Contact me </h3>
 
- <h4> > Rapid7 stack, Microsoft Stack, CrowdStrike platform, Splunk, Cortex SIEM and XDR, Cofense-Proofpoint, Forensics & PCAP analysis tools etc. </h4>
+[Linkedin profile](https://www.linkedin.com/in/lorenzobertini-netw/)
 
-<h3> (連絡先) Contact me: </h3>
-
-[*Linkedin profile](https://www.linkedin.com/in/lorenzobertini-netw/)
 
 <br /> <br /> 
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=Wolanet&label=Profile%20views&color=0e75b6&style=flat" alt="Wolanet" /> </p>
