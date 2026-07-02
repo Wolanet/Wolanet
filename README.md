@@ -30,7 +30,7 @@ that I once brought to primary-source research.
 ### 🗂️ Portfolio
 
 **<ins>Featured</ins>**
-- **DFIR Work** — digital forensics & incident-response cases → [tektsunami.com/dfirwork.html](https://tektsunami.com/dfirwork.html)
+- **DFIR Work** — digital forensics & incident-response cases → [link](https://tektsunami.com/dfirwork.html)
 
 **Projects & Labs**
 - **Network analysis & hardening** — Wireshark, tcpdump, Suricata → [write-up](https://tektsunami.com/ablueteamwire.html)
@@ -50,9 +50,6 @@ that I once brought to primary-source research.
 ### 🔰 Language Learning
 - [Anki deck template](https://github.com/Wolanet/Anki_deck_LanguageLearning) — reusable spaced-repetition deck
 - [How to learn any language: Anki + Immersion](https://tektsunami.com/ankistudy.html)
-
-### Contact
-[LinkedIn](https://www.linkedin.com/in/lorenzobertini-netw/) · [tektsunami.com](https://tektsunami.com)
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Wolanet&label=Profile%20views&color=0e75b6&style=flat" alt="Wolanet" /></p>
 <!-- Wolanet/Wolanet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
