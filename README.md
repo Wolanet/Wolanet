@@ -1,4 +1,4 @@
-<h1 align="center">Lorenzo Bertini</h1>
+<h1 align="center">Lorenzo B.</h1>
 <h3 align="center">SOC · DFIR · Threat Detection & Response</h3>
 <p align="center">
   <a href="https://tektsunami.com">🌊 tektsunami.com</a> &nbsp;·&nbsp;
